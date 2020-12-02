@@ -1,3 +1,6 @@
+If the project is not visible on github, you can use this link:</br>
+https://nbviewer.jupyter.org/github/RBarroco/timeseries-CPI-analysis/blob/master/timeseries-CPI-analysis.ipynb
+
 # timeseries-CPI-analysis
 A project about CPI timeseries analysis.<br/>
 In this project I have fetched data from [U.S. BUREAU OF LABOR STATISTICS, Urban CPI](https://data.bls.gov/timeseries/CUUR0000SA0?output_view=pct_1mth)<br/>
